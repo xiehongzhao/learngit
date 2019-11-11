@@ -1,4 +1,4 @@
-change -ex
+change -e
 past
 changing
 change -after
