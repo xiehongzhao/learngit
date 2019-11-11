@@ -1,1 +1,4 @@
+change -ex
 past
+changing
+change -after
